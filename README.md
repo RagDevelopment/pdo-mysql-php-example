@@ -6,34 +6,24 @@ It’s a lightweight snippet you can drop into any project to establish a safe a
 ✅ Features:
 
 Uses PDO (PHP Data Objects) for modern database access
-
 Includes error handling with exceptions
-
 Uses UTF-8 (utf8mb4) for full emoji + multilingual support
-
 Shows how to use prepared statements to prevent SQL injection
 
 📌 Why This Tutorial?
-
 Many PHP tutorials online are outdated, still using mysqli_connect() or even the long-deprecated mysql_connect().
 This example demonstrates the correct way to connect PHP to MySQL in 2025 using PDO, which is:
 
 Secure 🔒
-
 Flexible (supports multiple databases, not just MySQL)
-
 Easy to maintain and extend
 
 📂 Files in This Repository
-
 db.php → Creates the reusable PDO connection
-
 example.php → Demonstrates a simple query
 
 🚀 Quick Start Tutorial
-
 Follow these steps to run the example from scratch:
-
 Step 1. Configure Database Settings
 
 Edit db.php with your MySQL connection details:
