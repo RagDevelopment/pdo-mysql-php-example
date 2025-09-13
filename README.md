@@ -138,7 +138,7 @@ PDO is the recommended way to connect PHP with databases:
 
 ## 👨‍💻 About This Project
 
-This tutorial is maintained by **[Morton Technologies LLC](https://mortontechdev.com)**, a custom software development company specializing in PHP, JavaScript, AI, and cloud solutions.  
+This tutorial is maintained by **[Morton Technologies LLC](https://mortontech.ai)**, a custom software development company specializing in PHP, JavaScript, AI, and cloud solutions.  
 
 We also operate **[RagDevelopment.com](https://ragdevelopment.com)**, where we build advanced **Retrieval-Augmented Generation (RAG)** solutions and custom AI-powered applications for businesses.  
 
